@@ -1,0 +1,10 @@
+[1] Enter image filename:     cover.jpg
+[2] Enter file to embed:      secret.txt
+[3] Enter password (optional): ********
+
+
+
+
+⚠️ Legal Use
+This tool is intended for educational and ethical use only.
+Do NOT use it for malicious activity.
